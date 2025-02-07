@@ -1,0 +1,10 @@
+The role of Elasticsearch in the modern data stack
+Elasticsearch vs. OpenSearch
+Comparison with other NoSQL (MongoDB, etc.), search databases (Solr, Lucene) or services (like Algolia)
+Clustering, sharding and replication in brief
+Elasticsearch complex DSL, queries, filtering, sorting and complex scoring
+Aggregations and Analytics, including Kibana
+Advanced usages for Elasticsearch (i.e as an ad-server or general-purpose database)
+Embedding in Elasticsearch
+
+Credit: Michael Lugassy

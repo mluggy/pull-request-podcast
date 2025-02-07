@@ -1,0 +1,14 @@
+Benefits vs. single-repo or multi-repo
+Use concrete examples for Node.js (NPM/pnpm/yarn) and Python (pip)
+Store all projects, libraries, and services in a single repository for a single source of truth
+Make consistent, atomic commits that span multiple applications or modules, reducing integration issues
+Share and version dependencies and common libraries effortlessly across teams
+Apply uniform build, test, linting, and deployment setups with centralized configuration management
+Improve developer awareness of changes across projects, fostering collaboration and consistent coding practices
+Efficiently update and refactor shared code and APIs across multiple projects with confidence
+Utilize tools like Bazel, Nx, Lerna, or Pants to execute incremental builds and tests, optimizing performance
+Streamline branch management and merges to reduce integration conflicts and maintain code quality
+Centralize test suites and CI pipelines, enabling comprehensive and faster regression testing
+Promote reuse of code patterns and libraries, reducing duplication and maintaining consistency across applications
+Leverage automated tools to map interdependencies, ensuring efficient build and deployment pipelines
+Employ strategies like selective checkouts, caching, and distributed builds to address performance challenges in very large repositories

@@ -1,0 +1,16 @@
+How it stacks against Jenkins, GitLab CI, Argo and other CI/CD tools
+Fully integrated with GitHub repositories for seamless CI/CD based on events like push, pull request, and issue comments
+Define workflows using YAML, enabling version-controlled CI/CD pipelines directly within your repository
+Automatically trigger workflows on GitHub events, providing real-time automation for builds, tests, and deployments
+Run jobs in parallel and define matrix strategies to test multiple configurations (OS, language versions, etc.)
+Leverage and share thousands of pre-built actions from the GitHub Marketplace to accelerate development
+Execute jobs in GitHub-hosted runners across Linux, Windows, and macOS, or use custom Docker containers for consistent environments
+Choose between GitHub-hosted runners or set up your own self-hosted runners for greater control and custom environments
+Manage sensitive data securely with encrypted secrets and environment variables accessible in the workflow
+Use caching to speed up workflows by storing dependencies, and manage artifacts for later job steps or debugging
+Implement conditional execution, utilize job dependencies, and orchestrate complex workflows for granular control
+Access detailed logs and diagnostics directly from the GitHub UI, simplifying troubleshooting of workflows
+Seamlessly integrate with external APIs, services, and third-party platforms using built-in actions and community contributions
+Benefit from GitHub’s robust security infrastructure, including fine-grained token permissions and automated security checks for workflow integrity
+
+Credit: Michael Lugassy

@@ -1,0 +1,11 @@
+materialized views must be a chapter
+also projections
+
+compare quickly to aws athena, google bigquery and droid
+compare heavily against snowflake
+
+how data is fed
+
+importance of fast disk drives
+
+credit to: Michael Lugassy

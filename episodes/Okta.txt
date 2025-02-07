@@ -1,0 +1,11 @@
+Why organizations use Okta for workforce identity and access management
+How it stacks against Google SSO, Microsoft Entra, and other identity providers
+SAML, OpenID Connect, and other basic concepts
+Multi-Factor Authentication (MFA), OTP, SMS, Passkeys & Adaptive Security
+Contextual data (location, device, behavior) to enforce real-time, risk-based access decisions
+Built-in integrations (OIN)
+Best practices for session and password policies
+How do you connect your own apps and services to Okta?
+Monitoring of authentication events, risk assessments, and security analytics
+Tailored UI experience and branding
+Zero Trust Security & Contextual Access

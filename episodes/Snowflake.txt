@@ -1,0 +1,10 @@
+Works on every major cloud provider but still closed source
+Infinite scale, including price ranges for both compute and storage
+Support for JSON, Parquet, ORC, AVRO, etc. and which should you use
+How Snowflake compares to other cloud data warehouses (AWS Redshift, Google BigQuery, Azure Synapse)
+Time Travel & Fail-safe
+Data Sharing, Query Editor (including AI) & Collaboration
+Query Optimization & Caching
+Maybe some UDFs and advanced querying beyond standard SQL
+
+Credit: Michael Lugassy
