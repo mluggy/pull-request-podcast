@@ -1,0 +1,9 @@
+ ScalabilityVsAccuracy.txt
+
+ Scalability vs. Accuracy in AI
+Question: “What is the best path to scaling AI solutions when balancing cluster-based processing (Spark) with heavy neural models (BERT/ModernBERT/LLMs)?”
+Analysis:
+This question addresses a fundamental trade-off in deploying AI at scale. There is strong industry and academic interest in reconciling the benefits of distributed data processing with the computational demands of large models. While numerous strategies (e.g., model parallelism, mixed-precision training, hybrid architectures) have been proposed, no one “best path” exists.
+Assessment: High popularity and remains largely unanswered.
+
+Credit to Shoval Benjer
