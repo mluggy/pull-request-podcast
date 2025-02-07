@@ -1,0 +1,5 @@
+Why Lit instead of React, Angular or Vue?
+Speed of shadow DOM
+Security of shadow DOM
+
+Credit: Michael Lugassy

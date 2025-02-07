@@ -1,0 +1,10 @@
+Talking specifically about Cursor.ai IDE
+Advantages over Co-Pilot, TabNine, etc.
+Basic auto-completion
+Chat with your codebase
+Composer and the new restore checkpoint feature
+Mention files, workspaces, repositories, URLs
+Different LLM models (including Private endpoints)
+Legal issues to consider
+
+Credit: Michael Lugassy

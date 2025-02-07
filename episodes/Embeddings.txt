@@ -1,0 +1,12 @@
+What Are Embeddings?
+Core Use Cases
+Common Techniques & traditional models (Word2Vec, GloVe, FastText)
+LLMs (BERT, GPT, RoBERTa, OpenAI, etc.)
+Capturing Context and Semantics
+Dimensionality & Efficiency (including trade-offs)
+Similarity searches using cosine similarity or Euclidean distance
+Custom and Domain-Specific Embeddings
+Fine-tuning or training embeddings from scratch on domain-specific data
+Advanced usages for Embeddings (beyond text)
+
+Credit: Michael Lugassy
