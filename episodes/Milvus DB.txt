@@ -1,0 +1,10 @@
+What is a vector database?
+Why traditional databased are not enough?
+How to use the concept of vector similiarity?
+Which indexes and when to use them? -  IVF_FLAT, HNSW, IVF_SQ8
+Usage examples:
+    - RAG 
+    - Recommendation systems.
+    - Audio search.
+
+Credit: Omri Fima
