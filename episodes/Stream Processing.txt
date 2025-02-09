@@ -1,0 +1,8 @@
+stream vs batch processing
+streams vs queues
+Windows - Tumbling windows, Sliding windows, Session windows
+Stream processing patterns - State management, joins, branching, feedabck loops.
+Apache Kafka Streams and AWS Firehose
+Common challenges - out of order data, recovery, exactly-once. 
+
+Credit: Omri Fima, Michael Lugassy

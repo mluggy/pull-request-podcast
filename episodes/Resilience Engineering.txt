@@ -1,0 +1,7 @@
+How complex systems fail
+what is failure cascades
+from preventing failures to designing for resilience
+designing systems that fail partially, not catastrophically
+resilience patterns - timeouts, Circuit Breakers, bulkheads
+
+Credit: Omri Fima
