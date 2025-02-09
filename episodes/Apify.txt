@@ -1,0 +1,10 @@
+Why web scraping still matters (lack of APIs, need for data)
+The Apify platform - actors, datasets and runs
+Examples of popular actors (Google, Yelp, Zillow, LinkedIn, Wolt)
+The "Crawler" actor - a great way to scrape entire websites
+Playwright and Puppeteer integration
+Using Apify proxies (datacenter, residential)
+Using Apify proxies outside of Apify platform (i.e in Axios)
+Build your own actor and monetize
+
+Credits: Michael Lugassy
