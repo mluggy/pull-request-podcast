@@ -1,0 +1,5 @@
+stream vs batch processing
+Windows Tumbling windows, Sliding windows, Session windows
+Stream processing patterns - State management, joins, branching, feedabck loops.
+Apache Kafka Streams
+Common challenges - out of order data, recovery, exactly-once. 
